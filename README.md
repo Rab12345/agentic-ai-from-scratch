@@ -62,15 +62,19 @@ agentic-ai-from-scratch/
 
 ## Technology
 
-* Python
-* Hugging Face
-* LLMs
-* RAG
-* Vector databases
-* LangChain
-* LangGraph
-* MCP
-* Google Colab
+### Currently implemented
+- Python
+- Hugging Face
+- LLMs
+- Tool calling
+
+### Planned
+- RAG
+- Vector databases
+- LangChain
+- LangGraph
+- MCP
+- Multi-agent systems
 
 Additional technologies will be introduced as the project evolves.
 
